@@ -1,0 +1,239 @@
+{
+  "main": {
+    "name":"Andrii Korzh",
+    "occupation":"Software Engineer / Technical Specialist",
+    "description":"with more then 10 years of software development experience",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "korzh.andrii@gmail.com",
+    "phone": "415-527-9505",
+    "address":{
+      "street":"",
+      "city":"San Francisco",
+      "state":"CA",
+      "zip": "94121"
+    },
+    "website": "http://www.akorzh.com",
+    "resumedownload":"https://ak-web-resume.s3.amazonaws.com/resume.pdf",
+    "social":[
+      {
+        "name":"leetcode",
+        "url":"https://leetcode.com/akquard/",
+        "className":"fa fa-code"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/andrii-korzh",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andrii-korzh/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/andrii-korzh",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/AndriiKorzh",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"youtube",
+        "url":"https://www.youtube.com/c/AndriiKorzh",
+        "className":"fa fa-youtube"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"National Aviation University",
+        "degree":"Master's Degree in Software Engineering",
+        "graduated":"2010",
+        "description":""
+      },
+      {
+        "school":"National Aviation University",
+        "degree":"Bachelor's Degree in Computer Science",
+        "graduated":"2008",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"BusinessWire",
+        "website":"http://www.businesswire.com",
+        "title":"Software Engineer",
+        "years":"2017 - Present"
+      },
+      {
+        "company":"UrbanScience",
+        "website":"http://www.urbanscience.com",
+        "title":"Software Engineer",
+        "years":"2016 - 2017"
+      },
+      {
+        "company":"MEDITsystems",
+        "website":"http://www.meditsystems.de",
+        "title":"Software Engineer",
+        "years":"2013 - 2016"
+      },
+      {
+        "company":"GlobalLogic",
+        "website":"http://www.globallogic.com",
+        "title":"Software Engineer",
+        "years":"2012 - 2013"
+      },
+      {
+        "company":"Samsung Research & Development",
+        "website":"http://research.samsung.com",
+        "title":"Software Engineer",
+        "years":"2011 - 2012"
+      },
+      {
+        "company":"Lombard Alliance",
+        "website":"",
+        "title":"Software Engineer",
+        "years":"2010 - 2011"
+      },
+      {
+        "company":"Elan ltd",
+        "website":"",
+        "title":"Software Engineer",
+        "years":"2007 - 2010 (part-time)"
+      }
+    ],
+    "skillmessage":"AWS Certified Developer/SysOps Administrator/Solutions Architect",
+    "proficient":"JavaSE, SQL, SDLC, Software Design/Architecture, Testing, CodeReview, CI/CD, Jenkins, Git",
+    "exposure":"AWS, JavaEE, Go, React, GWT/Vaadin, Maven, Docker, Spring, Hibernate, Liferay, Linux, Bash.",
+    "skills":[
+      {
+        "name":"java",
+        "level":"90%"
+      },
+      {
+        "name":"sql",
+        "level":"70%"
+      },
+      {
+        "name":"git",
+        "level":"80%"
+      },
+      {
+        "name":"go",
+        "level":"50%"
+      },
+      {
+        "name":"javascript",
+        "level":"30%"
+      },
+      {
+        "name":"react",
+        "level":"40%"
+      },
+      {
+        "name":"docker",
+        "level":"30%"
+      },
+      {
+        "name":"code-quality",
+        "level":"80%"
+      },
+      {
+        "name":"code-readability",
+        "level":"90%"
+      },
+      {
+        "name":"code-review",
+        "level":"90%"
+      },
+      {
+        "name":"testing",
+        "level":"70%"
+      },
+      {
+        "name":"software design",
+        "level":"90%"
+      },
+      {
+        "name":"software architecture",
+        "level":"80%"
+      },
+      {
+        "name":"Continuous Improvement",
+        "level":"75%"
+      },
+      {
+        "name":"Continuous Integration",
+        "level":"80%"
+      },
+      {
+        "name":"Continuous Delivery",
+        "level":"75%"
+      },
+      {
+        "name":"Continuous Deployment",
+        "level":"70%"
+      },
+      {
+        "name":"Methodologies",
+        "level":"60%"
+      },
+      {
+        "name":"Scrum",
+        "level":"90%"
+      },
+      {
+        "name":"Troubleshooting",
+        "level":"95%"
+      },
+      {
+        "name":"Empathy",
+        "level":"80%"
+      },
+      {
+        "name":"Problem Solving",
+        "level":"95%"
+      },
+      {
+        "name":"Collaboration",
+        "level":"75%"
+      },
+      {
+        "name":"Communication",
+        "level":"75%"
+      },
+      {
+        "name":"Creativity",
+        "level":"85%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"resume-website.jpg",
+        "url":"https://www.andrii-korzh.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

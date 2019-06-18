@@ -1,0 +1,29 @@
+.space-32 {height: 32px;}
+.space-64 {height: 64px;}
+.space-96 {height: 96px;}
+.space-128 {height: 128px;}
+.space-160 {height: 160px;}
+
+@media only screen and (max-width: 1024px) {
+	.space-160 {height: 90px;}
+}
+@media only screen and (max-width: 900px) {
+}
+@media only screen and (max-width: 767px) {
+}
+@media only screen and (max-width: 480px) {
+	.cert-image {
+		width: 64px;
+		height: 64px;
+	}
+	header {background: #161415 url(../images/mobile/header-background.jpg) bottom;}
+}
+
+
+
+
+
+
+
+
+
