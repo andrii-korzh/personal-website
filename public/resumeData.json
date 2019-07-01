@@ -1,51 +1,31 @@
 {
   "main": {
-    "name":"Andrii Korzh",
-    "occupation":"Software Engineer / Technical Specialist",
-    "description":"with more then 10 years of software development experience",
+    "name":"Iuliia Kudriashova",
+    "occupation":"French Teacher",
+    "description":"",
     "image":"profilepic.jpg",
-    "bio":"Software Engineer with international experience around 10 years in the industry that care about quality from high-level architecture and design to low-level coding.",
+    "bio":"",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "korzh.andrii@gmail.com",
-    "phone": "415-527-9505",
+    "email": "iuliia.kudriashova@gmail.com",
+    "phone": "",
     "address":{
       "street":"",
       "city":"San Francisco",
       "state":"CA",
-      "zip": "94121"
+      "zip": ""
     },
-    "website": "http://www.akorzh.com",
+    "website": "http://www.kudriashova.com",
     "resumedownload":"https://ak-web-resume.s3.amazonaws.com/resume.pdf",
     "social":[
       {
-        "name":"leetcode",
-        "url":"https://leetcode.com/akquard/",
-        "className":"fa fa-code"
-      },
-      {
-        "name":"github",
-        "url":"https://github.com/andrii-korzh",
-        "className":"fa fa-github"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/andrii-korzh/",
+        "url":"https://www.linkedin.com/in/yulia-kudriashova-0b185974/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"facebook",
-        "url":"http://facebook.com/andrii-korzh",
+        "url":"https://www.facebook.com/yulia.koudriashova",
         "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/AndriiKorzh",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"youtube",
-        "url":"https://www.youtube.com/c/AndriiKorzh",
-        "className":"fa fa-youtube"
       }
     ]
   },

@@ -21,7 +21,7 @@ class About extends Component {
 				<div className="space-160"/>
 				<div className="row">
 					<div className="three columns">
-						<img className="profile-pic" src={profilepic} alt="Andrii Korzh Profile Pic"/>
+						{/*TODO<img className="profile-pic" src={profilepic} alt="Andrii Korzh Profile Pic"/>*/}
 					</div>
 					<div className="nine columns main-col">
 						<h2>About Me</h2>
@@ -41,7 +41,7 @@ class About extends Component {
 							</div>
 							<div className="columns download">
 								<p>
-									<a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+									{/*TODO<a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>*/}
 								</p>
 							</div>
 						</div>

@@ -32,6 +32,7 @@ class Certificates extends Component {
 	}
 
 	render() {
+		{/*TODO*/}if( true) return (null);
 		return (
 			<section style={center}>
 				<ul>
