@@ -21,7 +21,7 @@ class About extends Component {
 				<div className="space-160"/>
 				<div className="row">
 					<div className="three columns">
-						<img className="profile-pic" src={profilepic} alt="Andrii Korzh Profile Pic"/>
+						<img className="profile-pic" src={profilepic} alt="Iuliia Kudriashova Profile Pic"/>
 					</div>
 					<div className="nine columns main-col">
 						<h2>About Me</h2>
