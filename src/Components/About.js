@@ -14,6 +14,7 @@ class About extends Component {
 			var phone = this.props.data.phone;
 			var email = this.props.data.email;
 			var resumeDownload = this.props.data.resumedownload;
+			var resumedownloadFrench = this.props.data.resumedownloadFrench;
 		}
 
 		return (
@@ -41,7 +42,8 @@ class About extends Component {
 							</div>
 							<div className="columns download">
 								<p>
-									{/*TODO<a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>*/}
+									<a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+									<a href={resumedownloadFrench} className="button"><i className="fa fa-download"></i>Download Resume(French)</a>
 								</p>
 							</div>
 						</div>

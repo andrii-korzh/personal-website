@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Iuliia Kudriashova",
-    "occupation":"French teacher/instructor School executive director",
-    "description":"",
+    "occupation":"French teacher/instructor School executive director.",
+    "description":"I have 12 years of experience as a French teacher and in this time I have worked with different students from 4 to 17 years old in two international schools in Europe and have given private lessons for adults with different language level.",
     "image":"profilepic.jpg",
-    "bio":"",
+    "bio":"I taught French as a foreign language to beginner, intermediate, and advanced students of various cultural and linguistic backgrounds in British international school of Kiev for one year. Through my teaching experiences and studies, I developed critical pedagogic and classroom management skills, along with a passion for teaching French.\nI'm equipped with the Communicative Teaching Method. I apply this method in the classroom through interactive, student-centered activities that maximize “student talk time.” I scaffold my lessons so that they include pair and group work, as well as movement around the classroom. By engaging students in speaking, grammar, writing, listening, and reading and appealing to diverse learning styles, I help them improve their accuracy and fluency across key skill areas.\nSince 2012 I have prepared students to pass the exams DELF A1 A2 B1 B2 C1 and TEFaQ for immigration to Canada in association with Alliance française.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "iuliia.kudriashova@gmail.com",
     "phone": "",
@@ -15,7 +15,8 @@
       "zip": ""
     },
     "website": "http://www.kudriashova.com",
-    "resumedownload":"https://ak-web-resume.s3.amazonaws.com/resume.pdf",
+    "resumedownload":"https://ik-web-resume.s3.amazonaws.com/resume.pdf",
+    "resumedownloadFrench":"https://ik-web-resume.s3.amazonaws.com/resume_fr.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -32,166 +33,54 @@
   "resume":{
     "education":[
       {
-        "school":"National Aviation University",
-        "degree":"Master's Degree in Software Engineering",
-        "graduated":"2010",
+        "school":"Kyiv National Linguistics University",
+        "degree":"Master's Degree in Teaching English or French as a Second or Foreign Language",
+        "graduated":"2001",
         "description":""
       },
       {
-        "school":"National Aviation University",
-        "degree":"Bachelor's Degree in Computer Science",
-        "graduated":"2008",
+        "school":"Centre universitaire de Luxembourg",
+        "degree":"French Studies",
+        "graduated":"1999",
         "description":""
       }
     ],
     "work":[
       {
-        "company":"BusinessWire",
-        "website":"http://www.businesswire.com",
-        "title":"Software Engineer",
+        "company":"Alliance Française de San Francisco",
+        "website":"https://www.internationalsf.org",
+        "title":"French Teacher",
         "years":"2017 - Present"
       },
       {
-        "company":"UrbanScience",
-        "website":"http://www.urbanscience.com",
-        "title":"Software Engineer",
-        "years":"2016 - 2017"
-      },
-      {
-        "company":"MEDITsystems",
-        "website":"http://www.meditsystems.de",
-        "title":"Software Engineer",
-        "years":"2013 - 2016"
-      },
-      {
-        "company":"Telcordia/Ericsson (GlobalLogic)",
-        "website":"http://www.globallogic.com",
-        "title":"Software Engineer",
-        "years":"2012 - 2013"
-      },
-      {
-        "company":"Samsung Research & Development",
-        "website":"http://research.samsung.com",
-        "title":"Software Engineer",
-        "years":"2011 - 2012"
-      },
-      {
-        "company":"Lombard Alliance",
+        "company":"Alliance francaise de Kiev",
         "website":"",
-        "title":"Software Engineer",
-        "years":"2010 - 2011"
+        "title":"French Teacher/Examiner(DELF A1-B2)",
+        "years":"2011 - 2017"
       },
       {
-        "company":"Elan ltd",
+        "company":"Lycée Français Anne de Kiev",
         "website":"",
-        "title":"Software Engineer",
-        "years":"2007 - 2010 (part-time)"
+        "title":"Vice Director",
+        "years":"2007 - 2014"
+      },
+      {
+        "company":"British international school of Kiev",
+        "website":"",
+        "title":"French Teacher",
+        "years":"2006 - 2007"
+      },
+      {
+        "company":"Ecole francaise internationale de Kiev",
+        "website":"",
+        "title":"French Teacher",
+        "years":"2004 - 2006"
       }
     ],
     "skillmessage":"AWS Certified Developer/SysOps Administrator/Solutions Architect",
     "proficient":"JavaSE, SQL, SDLC, Software Design/Architecture, Testing, CodeReview, CI/CD, Jenkins, Git",
     "exposure":"AWS, JavaEE, Go, React, GWT/Vaadin, Maven, Docker, Spring, Hibernate, Liferay, Linux, Bash.",
     "skills":[
-      {
-        "name":"java",
-        "level":"90%"
-      },
-      {
-        "name":"sql",
-        "level":"70%"
-      },
-      {
-        "name":"git",
-        "level":"80%"
-      },
-      {
-        "name":"go",
-        "level":"50%"
-      },
-      {
-        "name":"javascript",
-        "level":"30%"
-      },
-      {
-        "name":"react",
-        "level":"40%"
-      },
-      {
-        "name":"docker",
-        "level":"30%"
-      },
-      {
-        "name":"code-quality",
-        "level":"80%"
-      },
-      {
-        "name":"code-readability",
-        "level":"90%"
-      },
-      {
-        "name":"code-review",
-        "level":"90%"
-      },
-      {
-        "name":"testing",
-        "level":"70%"
-      },
-      {
-        "name":"software design",
-        "level":"90%"
-      },
-      {
-        "name":"software architecture",
-        "level":"80%"
-      },
-      {
-        "name":"Continuous Improvement",
-        "level":"75%"
-      },
-      {
-        "name":"Continuous Integration",
-        "level":"80%"
-      },
-      {
-        "name":"Continuous Delivery",
-        "level":"75%"
-      },
-      {
-        "name":"Continuous Deployment",
-        "level":"70%"
-      },
-      {
-        "name":"Methodologies",
-        "level":"60%"
-      },
-      {
-        "name":"Scrum",
-        "level":"90%"
-      },
-      {
-        "name":"Troubleshooting",
-        "level":"95%"
-      },
-      {
-        "name":"Empathy",
-        "level":"80%"
-      },
-      {
-        "name":"Problem Solving",
-        "level":"95%"
-      },
-      {
-        "name":"Collaboration",
-        "level":"75%"
-      },
-      {
-        "name":"Communication",
-        "level":"75%"
-      },
-      {
-        "name":"Creativity",
-        "level":"85%"
-      }
     ]
   },
   "portfolio":{
