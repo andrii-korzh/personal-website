@@ -130,15 +130,15 @@
       },
       {
         "name":"javascript",
-        "level":"30%"
-      },
-      {
-        "name":"react",
         "level":"40%"
       },
       {
+        "name":"react",
+        "level":"50%"
+      },
+      {
         "name":"docker",
-        "level":"30%"
+        "level":"40%"
       },
       {
         "name":"code-quality",
