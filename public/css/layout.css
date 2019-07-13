@@ -222,7 +222,7 @@ ul#nav li.current a {
 }
 
 #about a, #about a:visited {
-    color: #fff;
+    color: #00e3ff;
 }
 
 #about a:hover, #about a:focus {
@@ -287,7 +287,7 @@ ul#nav li.current a {
 }
 
 #resume a, #resume a:visited {
-    color: #000c89;
+    color: #008aff;
 }
 
 #resume a:hover, #resume a:focus {
