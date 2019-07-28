@@ -118,7 +118,11 @@
       },
       {
         "name":"sql",
-        "level":"70%"
+        "level":"80%"
+      },
+      {
+        "name":"aws",
+        "level":"80%"
       },
       {
         "name":"git",
@@ -130,15 +134,15 @@
       },
       {
         "name":"javascript",
-        "level":"40%"
-      },
-      {
-        "name":"react",
         "level":"50%"
       },
       {
+        "name":"react",
+        "level":"60%"
+      },
+      {
         "name":"docker",
-        "level":"40%"
+        "level":"50%"
       },
       {
         "name":"code-quality",
