@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Certificates from "./Certificates";
+import Courses from "./Courses";
 
 class Resume extends Component {
 	render() {
@@ -63,6 +64,19 @@ class Resume extends Component {
 						<div className="bars">
 							<ul className="skills">
 								{skills}
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div className="row skill">
+					<div className="three columns header-col">
+						<h1><span>Courses</span></h1>
+					</div>
+					<div className="nine columns main-col">
+						<Courses/>
+						<br/>
+						<div className="bars">
+							<ul className="skills">
 							</ul>
 						</div>
 					</div>
