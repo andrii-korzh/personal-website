@@ -7,7 +7,7 @@ const urlParallelJava = "https://www.coursera.org/account/accomplishments/certif
 const descriptionParallelJava = "Coursera Parallel Programming Java Certificate";
 
 const nameConcurrentJava = "coursera-concurrent-programming-java.png";
-const urlConcurrentJava = "https://www.coursera.org/account/accomplishments/records/R472UNFTQQXF";
+const urlConcurrentJava = "https://www.coursera.org/account/accomplishments/certificate/R472UNFTQQXF";
 const descriptionConcurrentJava = "Coursera Concurrent Programming Java Certificate";
 
 const urlReact = "https://www.udemy.com/certificate/UC-NG2NYT1J/";
