@@ -6,6 +6,7 @@ class Portfolio extends Component {
     if(this.props.data){
       var projects = this.props.data.projects.map(function(projects){
         var projectImage = 'images/portfolio/'+projects.image;
+        if( projects.image === '') return null;
         return <div key={projects.title} className="columns portfolio-item">
            <div className="item-wrap">
             <a href={projects.url} title={projects.title}>
@@ -24,7 +25,7 @@ class Portfolio extends Component {
     }
 
     return (
-      <section id="portfolio">
+      <section id="portfolio" style={center}>
 
       <div className="row">
 
@@ -43,3 +44,7 @@ class Portfolio extends Component {
 }
 
 export default Portfolio;
+
+const center = {
+    textAlign: 'center !important'
+}

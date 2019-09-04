@@ -149,10 +149,22 @@
   "portfolio":{
     "projects": [
       {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
         "title":"Resume Website",
         "category":"A React based resume website",
-        "image":"resume-website.jpg",
-        "url":"https://www.andrii-korzh.com"
+        "image":"resume-website.png",
+        "url":"https://andrii-korzh.com"
+      },
+      {
+        "title":"French Instructor Website",
+        "category":"A React based resume website",
+        "image":"french-instructor-website.png",
+        "url":"https://kudriashova.com"
       }
     ]
   },
