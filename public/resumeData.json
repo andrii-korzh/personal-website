@@ -114,35 +114,35 @@
     "skills":[
       {
         "name":"java",
-        "level":"90%"
+        "level":"95%"
       },
       {
         "name":"sql",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"aws",
-        "level":"80%"
+        "level":"85%"
       },
       {
         "name":"git",
         "level":"80%"
       },
       {
+        "name":"react",
+        "level":"70%"
+      },
+      {
         "name":"go",
-        "level":"50%"
+        "level":"65%"
       },
       {
         "name":"javascript",
-        "level":"50%"
-      },
-      {
-        "name":"react",
         "level":"60%"
       },
       {
         "name":"docker",
-        "level":"50%"
+        "level":"60%"
       }
     ]
   },
