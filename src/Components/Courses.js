@@ -10,6 +10,10 @@ const nameConcurrentJava = "coursera-concurrent-programming-java.png";
 const urlConcurrentJava = "https://www.coursera.org/account/accomplishments/certificate/R472UNFTQQXF";
 const descriptionConcurrentJava = "Coursera Concurrent Programming Java Certificate";
 
+const nameDistributedtJava = "coursera-distributed-programming-java.png";
+const urlDistributedJava = "https://www.coursera.org/account/accomplishments/certificate/G47T428RZZQL";
+const descriptionDistributedJava = "Coursera Distributed Programming Java Certificate";
+
 const urlReact = "https://www.udemy.com/certificate/UC-NG2NYT1J/";
 const nameReact = "react.png";
 const descriptionReact = "Udemy React 16 - The Complete Guide(incl. React Router 4 & Redux)";
@@ -35,6 +39,7 @@ class Certificates extends Component {
 		return (
 			<section style={center}>
 				<ul>
+					{this.getCertificate(urlDistributedJava, urlDistributedJava, imgHome + "/" + nameDistributedtJava, descriptionDistributedJava)}
 					{this.getCertificate(urlParallelJava, urlParallelJava, imgHome + "/" + nameParallelJava, descriptionParallelJava)}
 					{this.getCertificate(urlConcurrentJava, urlConcurrentJava, imgHome + "/" + nameConcurrentJava, descriptionConcurrentJava)}
 					{this.getCertificate(urlReact, urlReact, imgHome + "/" + nameReact, descriptionReact)}
