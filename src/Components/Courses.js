@@ -2,6 +2,10 @@ import React, {Component} from 'react';
 
 const imgHome = "images/course";
 
+const urlCourseraSpecialization = "https://www.coursera.org/account/accomplishments/specialization/certificate/ZF94XPHKYZZJ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate";
+const descriptionCourseraSpecialization = "Coursera Specialization Parallel, Concurrent and Distributed Programming in Java";
+const nameCourseraSpecialization = "coursera-specialization-parallel-concurrent-distributed-programming-java.png";
+
 const nameParallelJava = "coursera-parallel-programming-java.png";
 const urlParallelJava = "https://www.coursera.org/account/accomplishments/certificate/ASXVSAQ7EHL7";
 const descriptionParallelJava = "Coursera Parallel Programming Java Certificate";
@@ -42,6 +46,7 @@ class Certificates extends Component {
 					{this.getCertificate(urlDistributedJava, urlDistributedJava, imgHome + "/" + nameDistributedtJava, descriptionDistributedJava)}
 					{this.getCertificate(urlParallelJava, urlParallelJava, imgHome + "/" + nameParallelJava, descriptionParallelJava)}
 					{this.getCertificate(urlConcurrentJava, urlConcurrentJava, imgHome + "/" + nameConcurrentJava, descriptionConcurrentJava)}
+					{this.getCertificate(urlCourseraSpecialization, urlCourseraSpecialization, imgHome + "/" + nameCourseraSpecialization, descriptionCourseraSpecialization)}
 					{this.getCertificate(urlReact, urlReact, imgHome + "/" + nameReact, descriptionReact)}
 					{this.getCertificate(urlDocker, urlDocker, imgHome + "/" + nameDocker, descriptionDocker)}
 					{this.getCertificate(urlBash, urlBash, imgHome + "/" + nameBash, descriptionBash)}
