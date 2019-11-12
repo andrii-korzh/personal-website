@@ -32,6 +32,7 @@ class Header extends Component {
 					</ul>
 				</nav>
 				<div className="row banner">
+					<div style={{"margin-bottom":"100px"}}/>
 					<div className="banner-text">
 						<h1 className="responsive-headline">{name}</h1>
 						<h3>I'm a {city} based <span>{occupation}</span> {description}.</h3>
