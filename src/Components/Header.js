@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Certificates from "./Certificates";
+import QR from "./QR";
 
 class Header extends Component {
 	render() {
@@ -37,10 +38,11 @@ class Header extends Component {
 						<hr/>
 						<ul className="social">
 							{networks}
-						</ul>
-					</div>
-				</div>
-				<p className="scrolldown">
+			</ul>
+			</div>
+			<QR/>
+			</div>
+			<p className="scrolldown">
 					<a className="smoothscroll" href="#about" aria-label="go-to-about"><i className="icon-down-circle"></i></a>
 				</p>
 			</header>
