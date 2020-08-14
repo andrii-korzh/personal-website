@@ -12,9 +12,12 @@ phases:
       - npm run build
   post_build:
     commands:
-      - echo pos_build
-
-artifacts:
-  files:
-    - '**/*'
-  base-directory: build
+      - echo deploy to $ENV_BUCKET
+      - aws s3 sync ./build s3://$ENV_BUCKET --delete
+      - echo invalidate CDN $ENV_DISTRIBUTION_ID
+#                - aws cloudfront create-invalidation --distribution-id $ENV_DISTRIBUTION_ID --paths "/*"
+#
+#          artifacts:
+#            files:
+#              - '**/*'
+#            base-directory: build
