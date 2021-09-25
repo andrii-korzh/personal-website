@@ -113,15 +113,15 @@
     "exposure":"AWS, JavaEE, Go, React, GWT/Vaadin, Maven, Docker, Spring, Hibernate, Liferay, Linux, Bash.",
     "skills":[
       {
-        "name":"java",
+        "name":"aws",
         "level":"95%"
       },
       {
-        "name":"sql",
+        "name":"java",
         "level":"90%"
       },
       {
-        "name":"aws",
+        "name":"sql",
         "level":"85%"
       },
       {
